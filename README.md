@@ -43,3 +43,10 @@ Kết quả mong đợi tương tự như Kruskal, tổng trọng số = 5.5.
 java graphs.KruskalMain src/test/resources/g1_graph.txt
 java graphs.PrimMain src/test/resources/g2_graph.txt
 ```
+
+ [Tải toàn bộ bài thực hành tại đây (Release)](https://github.com/PhungTrinhUET/dsa-mst-lec9/releases)
+
+- Nhóm 1: `group1-kruskal/`
+- Nhóm 2: `group2-prim/`
+- File input nằm trong `src/test/resources/`
+- Chạy test: `KruskalMSTTest` hoặc `PrimMSTTest`
